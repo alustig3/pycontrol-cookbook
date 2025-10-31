@@ -4,6 +4,7 @@ site_author: Andy Lustig
 repo_url: https://github.com/alustig3/pycontrol-cookbook
 repo_name: alustig3/pycontrol-cookbook
 copyright: Copyright &copy; 2025 Andy Lustig
+site_dir: docs/
 
 extra:
     discussion_url: https://github.com/alustig3/pycontrol-cookbook/discussions
