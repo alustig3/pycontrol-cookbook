@@ -1,0 +1,12 @@
+[project]
+name = "pycontrol-tutorial"
+version = "0.1.0"
+description = "Tutorial for pyControl"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-include-markdown-plugin>=7.2.0",
+    "mkdocs-material>=9.6.22",
+    "watchdog>=6.0.0",
+]
